@@ -1,7 +1,7 @@
 name: rebus open textbooks
 favicon: null
-layout_spectrum: 0.8618672429583967
-typography_spectrum: 0.032856534933671355
+layout_spectrum: 0.1952
+typography_spectrum: 0.73649
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5480749707203358
+  brandStrength: 0.375
   lightness: 0.8043011974077672
-  saturation: 0.9580733175389469
+  saturation: 0.875
   rhythmicContrast: 0.016296675894409418
 purpose: []
