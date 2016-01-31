@@ -2,6 +2,7 @@ name: rebus open textbooks
 favicon: null
 layout_spectrum: 0.1952
 typography_spectrum: 0.73649
+title: Rebus Open Textbooks
 cta:
   domain: null
   bucket: null
